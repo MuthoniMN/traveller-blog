@@ -8,7 +8,7 @@ image:
     alt: 'The full Astro logo.'
 tags: ["astro", "blogging", "learning in public"]
 ---
-[Back to Blog](../blog.astro)
+[Back to Blog](/../blog)
 # Nairobi: A Vibrant Tapestry of Culture and Adventure
 
 Nairobi, the bustling capital of Kenya, is a city that captivates the hearts of travelers with its rich cultural heritage and diverse landscapes. As you step into this dynamic metropolis, you're greeted by a vibrant tapestry of colors, sounds, and flavors that make Nairobi a must-visit destination.
