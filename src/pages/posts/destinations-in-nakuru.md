@@ -8,6 +8,7 @@ image:
     alt: 'The full Astro logo.'
 tags: ["astro", "blogging", "learning in public"]
 ---
+[Back to Blog](../blog.astro)
 # Top Destinations to Visit in Nakuru in 2024
 Nakuru, a picturesque town in Kenya's Great Rift Valley, is a treasure trove of diverse destinations that cater to the interests of every traveler. From wildlife enthusiasts to nature lovers and culture seekers, Nakuru offers a delightful range of attractions.
 

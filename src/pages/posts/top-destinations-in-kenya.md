@@ -8,6 +8,7 @@ image:
     alt: 'The full Astro logo.'
 tags: ["astro", "blogging", "learning in public"]
 ---
+[Back to Blog](../blog.astro)
 # Top Destinations to Visit in Kenya in 2024
 Kenya, a jewel of East Africa, is renowned for its diverse landscapes, vibrant cultures, and abundant wildlife. Here are the top five destinations that showcase the country's unique beauty and allure:
 
