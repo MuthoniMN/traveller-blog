@@ -1,7 +1,7 @@
 ---
 title: 'Top Destinations to Visit in Kenya in 2024'
 pubDate: 2023-12-01
-description: 'This is a blog post highlighting my favourite destinations in Nairobi Kenya.'
+description: 'This is a blog post highlighting my favourite destinations in Kenya.'
 author: 'World Explorer'
 image:
     url: 'https://docs.astro.build/assets/full-logo-light.png'
