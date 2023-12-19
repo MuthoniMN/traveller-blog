@@ -15,9 +15,9 @@ Nairobi, the bustling capital of Kenya, is a city that captivates the hearts of 
 
 In this article, I will highlight my favourite destinations in Nairobi including:
 
-1. **Maasai Market**
-2. **Nairobi National Park**
-3. **Karen Blixen Museum**
+- **Maasai Market**
+- **Nairobi National Park**
+- **Karen Blixen Museum**
 
 ## Maasai Market
 Begin your journey in the heart of the city at the Maasai Market, where local artisans showcase their traditional beadwork, fabrics, and crafts. The air is filled with the aroma of Kenyan street food, inviting you to savor the unique flavors of nyama choma (grilled meat) and samosas.
